@@ -29,7 +29,7 @@ MinimalBoard is a project management application that allows users to create boa
 3. Create a virtual environment:
 - python3 -m venv venv
 
-4. python3 -m venv venv
+4. Activate the virtual environment
 - For Linux/Mac: source venv/bin/activate
 - For Windows: .\venv\Scripts\activate
 
